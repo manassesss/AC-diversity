@@ -3,6 +3,8 @@ import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Products from "@/components/Products";
+import Brief from "@/components/Brief";
+import Instagram from "@/components/Instagram";
 
 export default function Home() {
   return (
@@ -11,6 +13,8 @@ export default function Home() {
       <Hero/>
       <About/>
       <Products/>
+      <Brief/>
+      <Instagram/>
     </div>
   );
 }
