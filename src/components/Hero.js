@@ -21,7 +21,7 @@ export default function Hero() {
         {/* Botão */}
         <div className="w-full flex justify-center">
           <a
-            href="https://api.whatsapp.com/send?phone="
+            href="https://www.instagram.com/ac.diversity/"
             target="_blank"
             className="w-full max-w-xs md:max-w-md px-5 py-3 mt-5 text-sm md:text-base text-[#1E1E1E] shadow-md bg-white hover:bg-gray-300 transition-all"
           >
