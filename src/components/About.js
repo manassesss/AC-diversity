@@ -8,7 +8,7 @@ export default function About() {
       <div className="w-full flex flex-col md:flex-row items-start justify-start px-6 md:px-8 pt-8 md:pt-12 pb-6">
         <div className="w-full md:w-[50%] space-y-6 p-4 ">
           <div className="w-full max-w-2xl text-center md:text-start">
-            <h1 className="playfair-display-font text-4xl text-[#D3D3D3] md:text-[160px] mb-6">
+            <h1 className="playfair-display-font text-4xl text-[#BEBEBE] md:text-[160px] mb-6">
               SOBRE<br />NÓS
             </h1>
             <div className="space-y-4">
